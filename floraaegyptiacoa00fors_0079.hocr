@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./floraaegyptiacoa00fors_0079.png"; bbox 0 0 1866 2671; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 434 380 1366 662">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 434 380 1366 662">
+     <span class='ocr_line' id='line_1_1' title="bbox 557 380 1211 481; baseline 0 -2"><span class='ocrx_word' id='word_1_1' title='bbox 557 380 1211 481; x_wconf 86' lang='lat' dir='ltr'><strong>FLORA</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 434 593 1366 662; baseline -0.001 0"><span class='ocrx_word' id='word_1_2' title='bbox 434 593 1366 662; x_wconf 57' lang='lat' dir='ltr'>AEGYPTIACffi</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 450 930 1348 998">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 450 930 1348 998">
+     <span class='ocr_line' id='line_1_3' title="bbox 450 930 1348 998; baseline -0.001 -1"><span class='ocrx_word' id='word_1_3' title='bbox 450 930 1348 998; x_wconf 80' lang='lat' dir='ltr'>CATALOGUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 126 1118 1658 1237">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 126 1118 1658 1237">
+     <span class='ocr_line' id='line_1_4' title="bbox 126 1118 1658 1237; baseline -0.001 -1"><span class='ocrx_word' id='word_1_4' title='bbox 126 1118 1658 1237; x_wconf 56' lang='lat' dir='ltr'><strong>PLANTARUM</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 495 1343 1295 1388">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 495 1343 1295 1388">
+     <span class='ocr_line' id='line_1_5' title="bbox 495 1343 1295 1388; baseline 0.001 -2"><span class='ocrx_word' id='word_1_5' title='bbox 495 1343 1295 1388; x_wconf 88' lang='lat' dir='ltr'>SYSTEMATICUS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 311 1499 1466 1573">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 311 1499 1466 1573">
+     <span class='ocr_line' id='line_1_6' title="bbox 311 1499 1466 1573; baseline 0.005 -7"><span class='ocrx_word' id='word_1_6' title='bbox 311 1499 790 1566; x_wconf 72' lang='lat' dir='ltr'>AEGYPTI</span> <span class='ocrx_word' id='word_1_7' title='bbox 878 1519 1466 1573; x_wconf 65' lang='lat' dir='ltr'>INFERIORISt</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 258 1682 1530 1736">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 258 1682 1530 1736">
+     <span class='ocr_line' id='line_1_7' title="bbox 258 1682 1530 1736; baseline 0 -10"><span class='ocrx_word' id='word_1_8' title='bbox 258 1682 680 1736; x_wconf 78' lang='lat' dir='ltr'><strong>ALEXANDRIAE,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 719 1684 1034 1736; x_wconf 81' lang='lat' dir='ltr'><strong>ROSETTAE,</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1075 1683 1331 1736; x_wconf 75' lang='lat' dir='ltr'><strong>KAHIRAE,</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 1382 1684 1530 1727; x_wconf 81' lang='lat' dir='ltr'>SUES.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 370 2015 414 2022">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 370 2015 414 2022">
+     <span class='ocr_line' id='line_1_8' title="bbox 370 2015 414 2022; baseline -0.023 0"><span class='ocrx_word' id='word_1_12' title='bbox 370 2015 414 2022; x_wconf 78' lang='lat'><strong>—-</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
